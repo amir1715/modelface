@@ -46,7 +46,7 @@ goto sett
 ::echo please send an email to nava20ir@gmail.com for the password
 ::pause
 ::exit
-)
+::)
 set vermol=10.0
 set /p vermol=What is the version of your modeller x.x Enter for Default=10.0 :
 set subvermol=0
